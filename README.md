@@ -47,9 +47,7 @@
 
 <h3 align="left">Projects:</h3>
 
+* Founder @ <a href="https://blocuriromania.ro">blocuriromania.ro</a>
 * Co-Founder @ <a href="https://github.com/SSAB-Technology">SSAB Technology</a>
-* Founder @ <a href="https://sampisti.ro">sampisti.ro</a>
 * Manager @ <a href="https://www.youtube.com/c/sunetedesampisti">sunete de sampisti</a>
-* Support Team Lead & Advertising Manager @ <a href="https://phenomz0r.net">phenomz0r.net</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=marian010.marian010)
+* Advertising Manager @ <a href="https://phenomz0r.net">phenomz0r.net</a>
