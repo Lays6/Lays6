@@ -48,6 +48,3 @@
 <h3 align="left">Projects:</h3>
 
 * Founder @ <a href="https://blocuriromania.ro">blocuriromania.ro</a>
-* Co-Founder @ <a href="https://github.com/SSAB-Technology">SSAB Technology</a>
-* Manager @ <a href="https://www.youtube.com/c/sunetedesampisti">sunete de sampisti</a>
-* Advertising Manager @ <a href="https://phenomz0r.net">phenomz0r.net</a>
